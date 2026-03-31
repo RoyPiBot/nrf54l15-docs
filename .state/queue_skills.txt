@@ -1,0 +1,45 @@
+nrf54l15_ble_advertising — BLE 廣播：設定廣播封包、掃描回應、廣播間隔
+nrf54l15_ble_advertising — BLE 廣播：設定廣播封包、掃描回應、廣播間隔
+nrf54l15_ble_connection — BLE 連線：建立 GATT Server/Client、特徵值讀寫
+nrf54l15_uart_serial — UART 串口通訊：設定波特率、DMA 模式、收發資料
+nrf54l15_spi_master — SPI 主控端：設定時脈、片選、全雙工傳輸
+nrf54l15_i2c_sensor — I2C 感測器讀取：掃描裝置、暫存器讀寫、多位元組操作
+nrf54l15_pwm_output — PWM 輸出控制：頻率設定、佔空比調整、多通道控制
+nrf54l15_adc_sampling — 14-bit ADC 取樣：通道設定、過取樣、參考電壓
+nrf54l15_timer_counter — 計時器與計數器：精確延遲、事件觸發、PPI 連接
+nrf54l15_watchdog — 看門狗計時器：設定超時、餵狗策略、系統重置
+nrf54l15_flash_storage — RRAM 儲存操作：NVS 非揮發性存儲、設定檔持久化
+nrf54l15_power_management — 低功耗管理：睡眠模式、喚醒源、電流優化
+nrf54l15_trustzone_security — TrustZone 安全區域：安全/非安全分區、記憶體隔離
+nrf54l15_crypto_accelerator — 硬體加密加速器：AES/SHA/ECC 操作、側通道防護
+nrf54l15_risc_v_coprocessor — RISC-V 協處理器：任務卸載、IPC 通訊、效能優化
+nrf54l15_ble_mesh — Bluetooth Mesh 網狀網路：節點配置、模型定義、訊息傳遞
+nrf54l15_thread_networking — Thread 網路協定：邊界路由器、CoAP 通訊、多跳
+nrf54l15_matter_smart_home — Matter 智慧家庭：裝置類型定義、認證流程、互通
+nrf54l15_ble_audio — LE Audio 音訊：LC3 編解碼、廣播音訊、Auracast
+nrf54l15_channel_sounding — BLE 6.0 通道探測：精確測距、室內定位
+nrf54l15_dfu_bootloader — DFU 韌體更新：安全啟動、OTA 更新、映像管理
+nrf54l15_logging_debugging — 日誌與除錯：RTT 即時追蹤、核心傾印、除錯技巧
+nrf54l15_zephyr_devicetree — Zephyr Devicetree：覆蓋檔、板級設定、硬體抽象
+nrf54l15_zephyr_kconfig — Kconfig 設定系統：功能開關、記憶體調優、編譯選項
+nrf54l15_west_build_system — West 建構系統：專案結構、多重映像、自訂板
+nrf54l15_interrupt_priority — 中斷優先順序：NVIC 設定、零延遲中斷、搶占
+nrf54l15_dma_transfer — DMA 直接記憶體存取：EasyDMA 設定、鏈式傳輸
+nrf54l15_ppi_event_system — PPI 事件系統：硬體任務/事件連接、零CPU開銷
+nrf54l15_clock_management — 時脈管理：HFCLK/LFCLK 選擇、校準、精度
+nrf54l15_usb_device — USB 裝置模式：CDC ACM 虛擬串口、HID 鍵盤滑鼠
+nrf54l15_pdm_microphone — PDM 數位麥克風：音訊擷取、濾波、FFT 分析
+nrf54l15_i2s_audio — I2S 音訊介面：DAC/ADC 連接、音訊串流
+nrf54l15_comparator — 類比比較器：閾值設定、交越偵測、低功耗監控
+nrf54l15_temperature_sensor — 片上溫度感測器：讀取、校準、過溫保護
+nrf54l15_multiprotocol — 多協定共存：BLE+Thread 同時運行、時分多工
+nrf54l15_ota_update_guide — OTA 完整指南：mcuboot 設定、簽章驗證、回滾
+nrf54l15_unit_testing — 單元測試框架：Zephyr Test Framework、模擬硬體
+nrf54l15_custom_board — 自訂電路板移植：從 DK 到量產板的完整流程
+nrf54l15_power_profiling — 功耗量測與優化：PPK2 使用、電流追蹤、基準測試
+nrf54l15_production_programming — 量產燒錄：SEGGER J-Link、nrfjprog、批次處理
+nanoclaw_architecture — NanoClaw 架構總覽：極簡 AI Agent 框架、容器隔離設計
+nanoclaw_nrf54l15_integration — NanoClaw + nRF54L15：用 AI Agent 驅動嵌入式開發
+nanoclaw_skill_development — NanoClaw Skill 開發：為 nRF54L15 寫自訂 AI 技能
+nanoclaw_embedded_agent — 嵌入式 AI Agent：用 NanoClaw 自動化韌體開發流程
+nanoclaw_iot_gateway — NanoClaw IoT 閘道器：用 Pi + nRF54L15 建構智慧閘道
