@@ -1,6 +1,3 @@
-nrf54l15_spi_master — SPI 主控端：設定時脈、片選、全雙工傳輸
-nrf54l15_i2c_sensor — I2C 感測器讀取：掃描裝置、暫存器讀寫、多位元組操作
-nrf54l15_pwm_output — PWM 輸出控制：頻率設定、佔空比調整、多通道控制
 nrf54l15_adc_sampling — 14-bit ADC 取樣：通道設定、過取樣、參考電壓
 nrf54l15_timer_counter — 計時器與計數器：精確延遲、事件觸發、PPI 連接
 nrf54l15_watchdog — 看門狗計時器：設定超時、餵狗策略、系統重置

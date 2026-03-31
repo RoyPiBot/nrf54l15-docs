@@ -38,3 +38,25 @@ NanoClaw 是輕量級 AI Agent 框架，可用於：
 ## 📊 產生進度
 
 文件由 cron 排程每 30 分鐘自動產生，推送到 GitHub。
+
+### 已完成的 Skill 文件
+
+| 檔案 | 主題 | 大小 |
+|------|------|------|
+| `skills/nrf54l15_gpio_control.md` | GPIO 基礎操作：輸入輸出、中斷、上下拉電阻 | ~43 KB |
+| `skills/nrf54l15_ble_advertising.md` | BLE 廣播：設定廣播封包、掃描回應、間隔 | ~48 KB |
+| `skills/nrf54l15_ble_connection.md` | BLE 連線：GATT Server/Client、特徵值讀寫 | ~48 KB |
+| `skills/nrf54l15_uart_serial.md` | UART 串口通訊：波特率、DMA、收發資料 | ~4 KB |
+
+### 待產生主題（佇列中）
+- PWM 控制、SPI/I2C 通訊、Timer 計時器
+- BLE Mesh、Thread/Zigbee 網路
+- 低功耗模式、OTA 韌體更新
+- NanoClaw 整合方案
+
+## 🛠️ 技術棧
+
+- **文件產生**：Claude (Anthropic) on Raspberry Pi 5
+- **目標 SDK**：nRF Connect SDK (Zephyr RTOS)
+- **自動化**：cron + bash scripts
+- **版本控制**：Git + GitHub (RoyPiBot/nrf54l15-docs)
