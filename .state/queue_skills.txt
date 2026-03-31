@@ -1,5 +1,3 @@
-nrf54l15_ble_advertising — BLE 廣播：設定廣播封包、掃描回應、廣播間隔
-nrf54l15_ble_advertising — BLE 廣播：設定廣播封包、掃描回應、廣播間隔
 nrf54l15_ble_connection — BLE 連線：建立 GATT Server/Client、特徵值讀寫
 nrf54l15_uart_serial — UART 串口通訊：設定波特率、DMA 模式、收發資料
 nrf54l15_spi_master — SPI 主控端：設定時脈、片選、全雙工傳輸
