@@ -1,4 +1,3 @@
-nrf54l15_matter_smart_home — Matter 智慧家庭：裝置類型定義、認證流程、互通
 nrf54l15_ble_audio — LE Audio 音訊：LC3 編解碼、廣播音訊、Auracast
 nrf54l15_channel_sounding — BLE 6.0 通道探測：精確測距、室內定位
 nrf54l15_dfu_bootloader — DFU 韌體更新：安全啟動、OTA 更新、映像管理
