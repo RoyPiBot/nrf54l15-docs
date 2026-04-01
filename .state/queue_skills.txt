@@ -1,4 +1,3 @@
-nrf54l15_channel_sounding — BLE 6.0 通道探測：精確測距、室內定位
 nrf54l15_dfu_bootloader — DFU 韌體更新：安全啟動、OTA 更新、映像管理
 nrf54l15_logging_debugging — 日誌與除錯：RTT 即時追蹤、核心傾印、除錯技巧
 nrf54l15_zephyr_devicetree — Zephyr Devicetree：覆蓋檔、板級設定、硬體抽象
