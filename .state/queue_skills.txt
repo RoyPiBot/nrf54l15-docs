@@ -1,4 +1,3 @@
-nrf54l15_power_management — 低功耗管理：睡眠模式、喚醒源、電流優化
 nrf54l15_trustzone_security — TrustZone 安全區域：安全/非安全分區、記憶體隔離
 nrf54l15_crypto_accelerator — 硬體加密加速器：AES/SHA/ECC 操作、側通道防護
 nrf54l15_risc_v_coprocessor — RISC-V 協處理器：任務卸載、IPC 通訊、效能優化
