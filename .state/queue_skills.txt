@@ -1,4 +1,3 @@
-nrf54l15_adc_sampling — 14-bit ADC 取樣：通道設定、過取樣、參考電壓
 nrf54l15_timer_counter — 計時器與計數器：精確延遲、事件觸發、PPI 連接
 nrf54l15_watchdog — 看門狗計時器：設定超時、餵狗策略、系統重置
 nrf54l15_flash_storage — RRAM 儲存操作：NVS 非揮發性存儲、設定檔持久化
