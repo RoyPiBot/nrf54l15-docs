@@ -1,3 +1,2 @@
-nanoclaw_skill_development — NanoClaw Skill 開發：為 nRF54L15 寫自訂 AI 技能
 nanoclaw_embedded_agent — 嵌入式 AI Agent：用 NanoClaw 自動化韌體開發流程
 nanoclaw_iot_gateway — NanoClaw IoT 閘道器：用 Pi + nRF54L15 建構智慧閘道
