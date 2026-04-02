@@ -1,4 +1,3 @@
-nrf54l15_zephyr_devicetree — Zephyr Devicetree：覆蓋檔、板級設定、硬體抽象
 nrf54l15_zephyr_kconfig — Kconfig 設定系統：功能開關、記憶體調優、編譯選項
 nrf54l15_west_build_system — West 建構系統：專案結構、多重映像、自訂板
 nrf54l15_interrupt_priority — 中斷優先順序：NVIC 設定、零延遲中斷、搶占
