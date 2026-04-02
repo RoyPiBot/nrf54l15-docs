@@ -1,4 +1,3 @@
-nanoclaw_architecture — NanoClaw 架構總覽：極簡 AI Agent 框架、容器隔離設計
 nanoclaw_nrf54l15_integration — NanoClaw + nRF54L15：用 AI Agent 驅動嵌入式開發
 nanoclaw_skill_development — NanoClaw Skill 開發：為 nRF54L15 寫自訂 AI 技能
 nanoclaw_embedded_agent — 嵌入式 AI Agent：用 NanoClaw 自動化韌體開發流程
