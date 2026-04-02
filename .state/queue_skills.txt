@@ -1,4 +1,3 @@
-nrf54l15_i2s_audio — I2S 音訊介面：DAC/ADC 連接、音訊串流
 nrf54l15_comparator — 類比比較器：閾值設定、交越偵測、低功耗監控
 nrf54l15_temperature_sensor — 片上溫度感測器：讀取、校準、過溫保護
 nrf54l15_multiprotocol — 多協定共存：BLE+Thread 同時運行、時分多工
